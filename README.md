@@ -18,5 +18,7 @@ Welcome to the expanded collection of Scientific papers and topics that have enr
 | 12  | Squeezeformer: An Efficient Transformer for Automatic Speech Recongnition |
 | 13  | AlexNet                                                                   |
 | 14  | Vision Transformer                                                        |
+| 15  | Battle of the Backbones                                                   |
+| 16  | Deep Exemplar-based Colorization                                          |
 
 These topics represent the diverse landscape of deep learning, from cutting-edge object detection to foundational architectures. Dive in and explore the depths of artificial intelligence! 🚀🧠
